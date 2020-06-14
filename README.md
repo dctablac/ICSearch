@@ -6,7 +6,7 @@ Dependencies (pip install):
 
     Flask
     
-    BeautifulSoup
+    bs4
     
     Nltk
 
